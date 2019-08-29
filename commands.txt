@@ -1,0 +1,6 @@
+* play a game of Pacman
+	python pacman.py
+	
+* The simplest agent in searchAgents.py is called the GoWestAgent
+	python pacman.py --layout testMaze --pacman GoWestAgent
+	python pacman.py --layout testMaze --pacman GoWestAgent
